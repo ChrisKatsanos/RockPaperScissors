@@ -44,10 +44,12 @@ If your file isn’t called main.py, run: python your_file_name.py
 
 ---
 
-###🛠 Requirements
+##🛠 Requirements
 Python 3.x
 
-###⚙️ Customization
+---
+
+##⚙️ Customization
 Change number of rounds by editing:
   python
 counter = 2
