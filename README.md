@@ -42,12 +42,12 @@ python main.py
 #    - Type rock / paper / scissors
 If your file isn’t called main.py, run: python your_file_name.py
 
+---
+
 🛠 Requirements
 Python 3.x
 
-⚙️ Customization
+###⚙️ Customization
 Change number of rounds by editing:
-
-python
-Αντιγραφή κώδικα
+  python
 counter = 2
